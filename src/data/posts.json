@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "O Flamengo perdeu para o Atlético Mineiro",
+        "content": "Podemos evidenciar que nesse dia 20/02/2022, o Flamengo perdeu na final da SuperCopa para o time do Atlético Mineiro nos penâltis."
+    },
+    {
+        "id": 2,
+        "title": "Dayane está em busca do seu Diamante",
+        "content": "Mais uma season se inicia no League of Legends e dessa vez, a jogadora busca um elo mais elevado."
+    },
+    {
+        "id": 3,
+        "title": "Testando a integração do Pug com o Express",
+        "content": "Ferramentas ótimas para o desenvolvimento web."
+    }
+]
